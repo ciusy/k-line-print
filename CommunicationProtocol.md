@@ -1,0 +1,1 @@
+'DBAC'(MAGIC) + '0001'(MSGID) + '0132'(DATALEN) + ProtocolBuffered Data + CRC32(Network Byte Order)

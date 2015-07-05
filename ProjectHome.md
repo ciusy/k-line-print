@@ -1,0 +1,1 @@
+Analysis tools for candle graph of stock, future, forex, etc.
